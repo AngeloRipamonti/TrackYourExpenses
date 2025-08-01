@@ -1,4 +1,4 @@
-Copyright 2025 Luca Avveduto, Ripamonti Angelo
+Copyright 2025 [Angelo Ripamonti](https://github.com/AngeloRipamonti), [Avveduto Luca](https://github.com/LucaAvveduto)
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
